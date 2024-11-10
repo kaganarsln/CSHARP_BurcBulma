@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\bin\Debug\VİZE3.exe.config
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\bin\Debug\VİZE3.exe
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\bin\Debug\VİZE3.pdb
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.exe
+C:\Users\user\Desktop\gorselprogramlama1\VİZE3\obj\Debug\VİZE3.pdb
